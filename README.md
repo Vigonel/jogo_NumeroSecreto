@@ -23,7 +23,7 @@
 # Descrição do Projeto
 O [Jogo do Numero Secreto](https://jogo-eta-blush-32.vercel.app) foi criado para que uma pessoa acerte um numero de 1 a 50, gerado de forma aleatoria. 
 
-## ✔️ Tecnologias utilizadas
+✔️ ##  Tecnologias utilizadas
 
 - ``JavaScript``
 - ``HTML``
