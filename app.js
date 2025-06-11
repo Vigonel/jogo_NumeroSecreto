@@ -24,7 +24,7 @@ function exibirTextoTela (tag, texto) {
 
 function exibirMensagemInicial () {
     exibirTextoTela ('h1', 'Jogo do Numero Secreto');
-    exibirTextoTela ('p', 'Escolha um número de 1 a 10');
+    exibirTextoTela ('p', 'Escolha um número de 1 a 100');
 }
 
 function verificarChute() {
@@ -85,7 +85,7 @@ function reiniciaJogo() {
 }
 
 let listaNumSorteados = [];
-let numMaxJogo = 10;
+let numMaxJogo = 100;
 let tentativa = 0;
 let numeroSecreto = gerarNumAleatorio ();
 exibirMensagemInicial ();
